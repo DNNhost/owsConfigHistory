@@ -6,4 +6,4 @@ http://creativecommons.org/licenses/by/4.0/
 
 
 
-This module does utilize a CKeditor field to save an extended description of the module.  This editor is initialized in the header of the module.
+This module does utilize a CKeditor (http://ckeditor.com/) to save an extended description of the module.  This editor is initialized in the header of the module.
