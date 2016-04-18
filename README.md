@@ -7,3 +7,5 @@ http://creativecommons.org/licenses/by/4.0/
 
 
 This module does utilize a CKeditor (http://ckeditor.com/) to save an extended description of the module.  This editor is initialized in the header of the module.
+
+Additionally, this module utilizes a custom table, OpenWebStudio_Manual - the script for creating such table is included.
