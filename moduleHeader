@@ -1,0 +1,13 @@
+<script src="//cdn.ckeditor.com/4.5.8/standard/ckeditor.js"></script>
+
+<script>
+function GetContents() {
+	// Get the editor instance that you want to interact with.
+	var editor = CKEDITOR.instances.newnote;
+
+	// Get editor contents
+	// http://docs.ckeditor.com/#!/api/CKEDITOR.editor-method-getData
+	return editor.getData();
+}
+
+</script>
